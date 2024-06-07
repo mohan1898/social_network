@@ -1,5 +1,5 @@
 1. Clone the Repository
-git clone https://github.com/mohan1898/social_network
+git clone https://github.com/mohan1898/social_network <br/>
 cd social_network
 
 2. Setup Virtual Environment
