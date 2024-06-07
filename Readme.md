@@ -30,6 +30,18 @@ pip install -r requirements.txt
 - `POST /api/friends/respond/<int:id>/` - Respond to a friend request
 - `GET /api/friends/friend/list/` - Respond to a friend request
 
+## POSTMAN COLLECTIONS
+
+## User Authentication
+
+[https://api.postman.com/collections/36140705-59287d18-f229-464b-bbc1-1ddecdce35d1?access_key=PMAT-01HZPJQX23BY2DA9AHKT77CVG3](https://api.postman.com/collections/36140705-59287d18-f229-464b-bbc1-1ddecdce35d1?access_key=PMAT-01HZPJQX23BY2DA9AHKT77CVG3)
+
+
+## FRIEND 
+
+[https://api.postman.com/collections/36140705-fe06be03-6234-403a-9a17-2267199eaced?access_key=PMAT-01HZPJF0NE5CWJ221784WFQCDN](https://api.postman.com/collections/36140705-fe06be03-6234-403a-9a17-2267199eaced?access_key=PMAT-01HZPJF0NE5CWJ221784WFQCDN)
+
+
 
 
 
